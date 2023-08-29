@@ -1,3 +1,4 @@
 # demo
 This is my first Git Repository
-Author- Saloni Zade
+<br>
+Author - Saloni Zade
